@@ -22,7 +22,7 @@ public class Java100_operator_ArithmeticOperators {
 		System.out.println("a%b="+(a%b)); //4(³ª¸ÓÁö)
 		
 		
-		
+		     
 		
 		
 	}
