@@ -18,6 +18,7 @@ public class Array_lotto {
 		for(int i=0; i<6; i++) { 
 			System.out.print(lotto[i] + " ");
 			
+			System.out.println("2022.02.25 업데이트")
 		}
 	}
 }
