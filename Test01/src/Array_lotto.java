@@ -22,6 +22,7 @@ public class Array_lotto {
 			System.out.println("25일 오후 업데이트");
 			System.out.println("25일 오후 업데이트");
 			System.out.println("25일 오후 업데이트");
+			System.out.println("25일 오후 업데이트");
 		}
 	}
 }
