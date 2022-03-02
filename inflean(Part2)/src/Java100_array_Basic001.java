@@ -21,7 +21,7 @@ public class Java100_array_Basic001{
 		System.out.println(sales_table[0]);
 		System.out.println(sales_table2[99]);
 		
-		
+	
 		
 		
 	}

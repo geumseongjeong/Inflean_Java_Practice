@@ -5,7 +5,7 @@ public class Java100_if_Basic001 {
 		
 		
 		// 변수선언
-		int kor=80, eng=90, math=100;
+		int kor=80, eng=90;
 		
 		// if조건문만 사용하기
 		if(kor >= 80) {
