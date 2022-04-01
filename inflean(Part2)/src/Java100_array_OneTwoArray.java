@@ -68,7 +68,6 @@ public class Java100_array_OneTwoArray {
 		System.out.println(strAr[1].charAt(2));		//m출력
 		System.out.println(strAr[2].charAt(2));		//r출력
 
-		
 	
 
 	}
